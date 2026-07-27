@@ -144,7 +144,6 @@ PLATFORM_VERSION_LAST_STABLE := $(PLATFORM_VERSION)
 TW_FRAMERATE := 60
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := true
-TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_USE_LEGACY_BATTERY_SERVICES := true
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/sprd_backlight/brightness"
