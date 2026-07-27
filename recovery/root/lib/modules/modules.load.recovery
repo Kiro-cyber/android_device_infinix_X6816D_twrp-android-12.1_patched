@@ -109,6 +109,7 @@ aw32257_charger.ko
 tran_charger.ko
 charger-manager.ko
 misc_sprd_uid.ko
+adaptive-ts.ko
 ssd20xx_ts.ko
 musb_hdrc.ko
 musb_sprd.ko
