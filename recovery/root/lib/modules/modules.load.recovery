@@ -110,7 +110,6 @@ tran_charger.ko
 charger-manager.ko
 misc_sprd_uid.ko
 ssd20xx_ts.ko
-synaptics_dsx_td4310.ko
 musb_hdrc.ko
 musb_sprd.ko
 agdsp_access.ko
