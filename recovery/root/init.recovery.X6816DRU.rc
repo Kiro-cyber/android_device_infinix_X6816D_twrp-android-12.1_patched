@@ -1,7 +1,7 @@
 #add for board init.rc for recovery mode
 import /init.recovery.common.rc
 
-on fs
+on fs && property:ro.bootmode=recovery
     start load_modules
 
 service load_modules /system/bin/load_modules.sh
